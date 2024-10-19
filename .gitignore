@@ -1,3 +1,7 @@
+.vscode/
+**/.vscode/
+# cpp_parameters/launch/
+
 devel/
 logs/
 build/
