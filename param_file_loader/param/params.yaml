@@ -1,0 +1,5 @@
+param_loader_node:
+  ros__parameters:
+    speed: 2.5
+    name: "robot"
+    is_autonomous: true
